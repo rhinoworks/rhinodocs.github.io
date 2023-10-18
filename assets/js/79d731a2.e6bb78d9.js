@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkrw_docs=self.webpackChunkrw_docs||[]).push([[268],{8398:t=>{t.exports=JSON.parse('{"title":"Aegis LogIt!","description":"Learn about Aegis LogIt!, our cloud schedule update software","slug":"logit","permalink":"/docs/logit","navigation":{"next":{"title":"Getting Started with Aegis LogIt!","permalink":"/docs/aegis-logit/introduction"}}}')}}]);
